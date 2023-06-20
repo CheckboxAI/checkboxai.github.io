@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   description: Official Checkbox.ai developer API docs and guides
-  version: 1.0.0
+  version: 1.60.0
   title: Checkbox RESTful API
   termsOfService: https://www.checkbox.ai/legal/eula
   contact:
